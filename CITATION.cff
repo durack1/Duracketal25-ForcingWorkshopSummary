@@ -1,0 +1,51 @@
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
+
+cff-version: 1.2.0
+message: "If you use this data and software, please cite it as Durack et al. (2025; DOI: 10.5281/zenodo.XXX [to be updated])"
+title: "Durack et al. 2025: Earth system forcing for CMIP7 and beyond"
+authors:
+- family-names: "Durack"
+  given-names: "Paul J."
+  orcid: "https://orcid.org/0000-0003-2835-1438"
+- family-names: "Naik"
+  given-names: "Vaishali"
+  orcid: "https://orcid.org/0000-0002-2254-1700"
+- family-names: "Nicholls"
+  given-names: "Zebedee"
+  orcid: "https://orcid.org/0000-0002-4767-2723"
+- family-names: "O'Rourke"
+  given-names: "Eleanor"
+  orcid: "https://orcid.org/0000-0002-0775-0811"
+- family-names: "Turner"
+  given-names: "Briony"
+  orcid: "https://orcid.org/0000-0003-3390-3831"
+- family-names: "Buontempo"
+  given-names: "Carlo"
+  orcid: "https://orcid.org/0000-0002-1874-5380"
+- family-names: "Brookshaw"
+  given-names: "Anca"
+  orcid: "https://orcid.org/0009-0009-2344-293X"
+- family-names: "Goddard"
+  given-names: "Christopher"
+  orcid: "https://orcid.org/0000-0003-0240-0465"
+- family-names: "MacIntosh"
+  given-names: "Claire"
+  orcid: "https://orcid.org/0000-0002-8645-5238"
+- family-names: "Hewitt"
+  given-names: "Helene"
+  orcid: "https://orcid.org/0000-0001-7432-6001"
+- family-names: "Dunne"
+  given-names: "John P."
+  orcid: "https://orcid.org/0000-0002-8794-0489"
+version: 1.0
+date-released: 2025-05-16
+identifiers:
+- description: "Durack et al., 2025 (BAMS)"
+  type: doi
+  value: ""
+- description: "Durack et al., 2025 (BAMS) Data and software"
+  type: doi
+  value: ""
+license: CC-BY-4.0
+repository-code: "https://github.com/durack1/Duracketal25-ForcingWorkshopSummary"
+url: "https://github.com/durack1/Duracketal25-ForcingWorkshopSummary"
