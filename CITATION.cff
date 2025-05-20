@@ -37,8 +37,8 @@ authors:
 - family-names: "Dunne"
   given-names: "John P."
   orcid: "https://orcid.org/0000-0002-8794-0489"
-version: 1.0
-date-released: 2025-05-16
+version: 1.1
+date-released: 2025-05-19
 identifiers:
 - description: "Durack et al., 2025 (BAMS)"
   type: doi
