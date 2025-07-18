@@ -5,4 +5,4 @@ A meeting report, summarizing key takeaways from the October 2025 workshop ["Pat
 
 Now published in the Bulletin of the American Meteorological Society, Early Online Release (EOR).
 
-Durack et al., 2025: Earth system forcing for CMIP7 and beyond, BAMS, [DOI: 10.1175/BAMS-D-25-0119.1](https://doi.org/10.1175/BAMS-D-25-0119.1)
+**Durack, P. J. et al., 2025: Earth system forcing for CMIP7 and beyond, BAMS, [DOI: 10.1175/BAMS-D-25-0119.1](https://doi.org/10.1175/BAMS-D-25-0119.1)**
